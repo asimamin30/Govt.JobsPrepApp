@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="colorPrimary">#0277bd</color>
+    <color name="colorPrimaryDark">#004C8C</color>
+    <color name="colorAccent">#0277BD</color>
+    <color name="textColor">#121212</color>
+    <color name="deeppurple">#7C4DFF</color>
+    <color name="yellow">#FFB300</color>
+    <color name="green1">#00BFA5</color>
+    <color name="pink">#D242EC</color>
+    <color name="red2">#F73E7C</color>
+    <color name="lightGray">#C1C1C1</color>
+    <color name="colorIcon">#00BFA5</color>
+    <color name="colorLogo">#01411C</color>
+    <color name="colorStatus">#01411C</color>
+    <color name="colorAppBar">#005E4D</color>
+    <color name="transparent">#00000000</color>
+    <color name="editTextBackground">#DADADA</color>
+    <color name="colorGray02">#959595</color>
+    <color name="holo_orange_dark">#ffff8800</color>
+
+    <color name="disable_card">#40959595</color>
+    <color name="grayColor">#636262</color>
+
+</resources>

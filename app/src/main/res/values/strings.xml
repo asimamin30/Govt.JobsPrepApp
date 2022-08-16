@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Admin Govt. Jobs Prep App</string>
+
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="govt_jobs_preparation_app">Govt. Jobs Preparation App</string>
+    <string name="remeber_me">Remember me</string>
+    <string name="admin_profile">Admin Profile</string>
+    <string name="edit_profile">Edit Profile</string>
+    <string name="update_profile">Update Profile</string>
+    <string name="eyes_for_hidden_show_password">Eyes for hidden/show password</string>
+    <string name="eyes_for_show">Eyes for Show</string>
+    <string name="title">Please Confirm</string>
+    <string name="supporting_text">Are you sure? if you proceed your password will be changed!</string>
+    <string name="cancel">Cancel</string>
+    <string name="accept">Yes</string>
+    <string name="upload_post">Upload Post</string>
+    <string name="view_post">View Post</string>
+    <string name="app_moto">Find Latest Govt. Jobs Past Paper</string>
+    <string name="bank_card">Bank Card</string>
+    <string name="passport_mrz"><![CDATA[Passport MRZ]]></string>
+    <string name="id_mrz"><![CDATA[ID Card MRZ]]></string>
+    <string name="visa_mrz"><![CDATA[VISA MRZ]]></string>
+    <string name="other_mrz"><![CDATA[ALL MRZ]]></string>
+    <string name="liveness">Liveness</string>
+    <string name="face_match">Face Match</string>
+    <string name="usa_dl_result">USA DL Result</string>
+    <string name="PDF417_Barcode">PDF417 Barcode</string>
+    <string name="score_formate">%.2f %%</string>
+    <!--    Past Paper Category -->
+    <string-array name="papers">
+        <item>PPSC</item>
+        <item>CSS</item>
+        <item>ASF</item>
+    </string-array>
+</resources>
